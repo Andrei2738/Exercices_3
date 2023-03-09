@@ -1,6 +1,6 @@
 # Exercices_3
 
-This repository consists of 5 exercices:
+This repository consists of 5 exercices and the corresponding Unit tests:
 
 1.Reverse a string
 
